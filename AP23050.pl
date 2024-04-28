@@ -17,3 +17,4 @@ depredador(X, Y) :- carnivoro(X), presas(Y, _).
 
 presas(serpiente, raton).
 presas(raton, maiz).
+rata.
